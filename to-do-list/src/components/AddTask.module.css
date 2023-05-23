@@ -1,0 +1,12 @@
+.input_container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.input_container input {
+    width: 80%;
+    padding: 1em;
+    border-radius: 25px;
+    font-size: 1rem;
+}
